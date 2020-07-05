@@ -7,6 +7,7 @@
 # Kraby
 
 ![Hexapod robot](docs/img/hexapod.jpg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ferdnaxe%2Fkraby.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ferdnaxe%2Fkraby?ref=badge_shield)
 
 Kraby is an hexapod robot.
 It is an open source development platform for educational purpose.
@@ -32,3 +33,6 @@ To test servomotors communication with the robot, you may execute `python -m gym
 
 This project is under GNU General Public License v3.0 because we believe in
 open development. Please see LICENSE file for more details.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ferdnaxe%2Fkraby.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ferdnaxe%2Fkraby?ref=badge_large)
